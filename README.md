@@ -1,6 +1,6 @@
 ## Project Summary
 
-#### Technologies Used: *Python*, *Pandas*, *SciPy*, *seaborn*, *scikit-learn*
+#### Used Technologies: *Python*, *Pandas*, *SciPy*, *seaborn*, *scikit-learn*
 
 This is the project for the **Machine Learning** exam.
 The task is **Classification** on the Heart Disease and Stroke Prevention dataset of the CMS (Center for Medicare and Madicaid Services), which contains various clinical data regarding CMS patients. \
