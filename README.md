@@ -10,7 +10,6 @@ The project is structured in the following sections:
 - **Data Preparation**, we modify the dataset to have the best possible performance on the models (e.g. type casting, removal or substitution of null values, removal of correlated attributes)
 - **Modeling**, we split the dataset, train the models and evaluate them with the same metrics (to choose the best model)
 - **Evaluation**, we compute plots and matrixes for the overall evaluation of the best model
-\
 
 Further informations regarding this project are contained in the [report](https://github.com/GLAwasTaken/ML_Project/blob/main/Relazione_Progetto_ML.pdf).
 
